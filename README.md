@@ -33,6 +33,6 @@ PortalFomundi | [Web](https://portalfomundi.tk) | Web platform
 
 ### Social Media
 
-- Mail: portalfomundi@gmail.com
+- Mail: fomundi.fr@gmail.com
 - GitHub: [@Fomundi](https://github.com/fomundifr)
 - Patreon: [Fomundi](https://www.patreon.com/fomundi)
