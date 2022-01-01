@@ -28,7 +28,7 @@ Actualmente estoy trabajando en un proyecto que va a beneficiar a las personas d
 
 Name | Source | Description
 --- | --- | ---
-PortalFomundi | [Web](https://portalfomundi.tk) | Web platform
+Fomtal | [Web](https://fomtal.tk) | Web platform
 ---
 
 ### Social Media
