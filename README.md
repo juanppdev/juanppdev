@@ -18,7 +18,6 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=juanppdev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
 [![](https://visitcount.itsvg.in/api?id=juanppdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
