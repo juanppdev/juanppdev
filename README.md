@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DiscordHack](https://blog-mundocode.vercel.app/blog/discordhack/)
+- [Bienvenida a este blog](https://blog-mundocode.vercel.app/blog/bienvenida/)
+- [Using MDX](https://blog-mundocode.vercel.app/blog/using-mdx/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
