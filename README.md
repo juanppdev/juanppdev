@@ -45,3 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanppdev&" alt="juanppdev" /></p>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
