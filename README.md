@@ -48,4 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanppdev&" alt="juanppdev" /></p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](../profile-3d-contrib/profile-night-green.svg)
